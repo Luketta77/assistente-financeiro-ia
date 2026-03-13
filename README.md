@@ -43,3 +43,10 @@ Criar um assistente digital capaz de ajudar usuários a entender melhor serviço
 ---
 
 # 📦 Estrutura do Projeto
+
+assistente-financeiro-ia
+│
+├── main.py
+├── simulador_financeiro.py
+├── faq_financeiro.py
+└── README.md
